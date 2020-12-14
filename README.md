@@ -1,2 +1,3 @@
 # azureplayground
-azureplayground.xyz site
+azureplayground.xyz site for development
+ 
